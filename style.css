@@ -1,0 +1,7 @@
+canvas {
+  background-image: url(img/espace-m31-galaxie-andromede-big.jpg);
+  background-size: cover;
+  background-position: center;
+  display: block;
+  margin: 0 auto;
+ }
